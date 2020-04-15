@@ -1,0 +1,7 @@
+#
+*.class
+
+minitrace-cmd.jar
+#
+*.swp
+/bin/
